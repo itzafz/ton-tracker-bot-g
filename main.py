@@ -8,10 +8,10 @@ from telegram.ext import Application, CommandHandler, ContextTypes, CallbackQuer
 logging.basicConfig(level=logging.INFO)
 
 # =============================================
-BOT_TOKEN = "8616206201:AAGg_O45XB_Q5U-cDVkuj-7lTYyH54bZtt4"
+BOT_TOKEN = "8616206201:--7lTYyH54bZtt4"
 WATCH_ADDRESS = "UQDBYLvK1r4I9ogqJfUyPBZGZTgUNe9e_Ze4Uk42ArOthsqd"
 TONCENTER_API = "https://toncenter.com/api/v2"
-TONCENTER_API_KEY = "1c98855960513abecea6be45219678e14bc8d2d43893de5df2ed366f3b6e3c95"
+TONCENTER_API_KEY = ""
 OWNER_ID = 6446529683
 #=============================================
 
